@@ -271,6 +271,7 @@ Document title: *CE239396* - *MTB-EXAMPLE-THREADX-WIFI-UDP-CLIENT*
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code examples
+ 1.1.0   | Adjusted the application heap size
 
 
 
